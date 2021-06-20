@@ -1,0 +1,48 @@
+C:/Users/Admin/Desktop/ALU/Division.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/ALU/Division.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Division
+
+Top level modules:
+	Division
+
+} {} {}} C:/Users/Admin/Desktop/ALU/Multiplication.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/ALU/Multiplication.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Multiplication
+
+Top level modules:
+	Multiplication
+
+} {} {}} C:/Users/Admin/Desktop/ALU/ALU.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/ALU/ALU.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module priority_encoder
+-- Compiling module Addition_Subtraction
+-- Compiling module Multiplication
+-- Compiling module Division
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Admin/Desktop/ALU/Priority Encoder.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Admin/Desktop/ALU/Priority Encoder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module priority_encoder
+
+Top level modules:
+	priority_encoder
+
+} {} {}} C:/Users/Admin/Desktop/ALU/Iteration.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/ALU/Iteration.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Iteration
+
+Top level modules:
+	Iteration
+
+} {} {}} C:/Users/Admin/Desktop/ALU/Addition-Subtraction.v {1 {vlog -work work -vopt -stats=none C:/Users/Admin/Desktop/ALU/Addition-Subtraction.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module priority_encoder
+-- Compiling module Addition_Subtraction
+
+Top level modules:
+	Addition_Subtraction
+
+} {} {}}

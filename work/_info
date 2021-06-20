@@ -1,0 +1,187 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Admin/Desktop/FPALU/Test
+T_opt
+!s110 1624156918
+V4=^7ZSPVZ]8K_dYRPcOCO3
+04 6 4 work ALU_Tb fast 0
+=1-18dbf259708b-60ceaaf6-253-2104
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vAddition_Subtraction
+Z1 !s110 1624156909
+!i10b 1
+!s100 d<:b?Z[oP@I>2^`YTUAH63
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia=HkcNQfl?nK9M<8A2<`A2
+Z3 dC:/Users/Admin/Desktop/ALU
+w1624155754
+8Addition-Subtraction.v
+FAddition-Subtraction.v
+!i122 70
+L0 3 90
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1624156909.000000
+Z7 !s107 Division.v|Multiplication.v|Priority Encoder.v|Addition-Subtraction.v|ALU.v|C:/Users/Admin/Desktop/ALU/ALU_Tb.v|
+Z8 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/ALU/ALU_Tb.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@addition_@subtraction
+vALU
+R1
+!i10b 1
+!s100 7IgX@[05B8TPHz`lT[TMC3
+R2
+ISHFg1mce97id`D5JfkjmV0
+R3
+w1624156258
+8ALU.v
+FALU.v
+!i122 70
+L0 7 63
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R0
+n@a@l@u
+vALU_Tb
+R1
+!i10b 1
+!s100 @c=CJWzBdcTTKBUCM1:3T2
+R2
+IUaH98b0ZndR;@W;FK1Pz;3
+R3
+w1624156882
+8C:/Users/Admin/Desktop/ALU/ALU_Tb.v
+FC:/Users/Admin/Desktop/ALU/ALU_Tb.v
+!i122 70
+L0 4 28
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R0
+n@a@l@u_@tb
+vDivision
+R1
+!i10b 1
+!s100 >:6GdPh0R_lCOc[9>J;900
+R2
+ILT;?k_hB44IP]8[DkPcJN3
+R3
+w1624156480
+8C:/Users/Admin/Desktop/ALU/Division.v
+FC:/Users/Admin/Desktop/ALU/Division.v
+!i122 71
+L0 1 54
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Admin/Desktop/ALU/Division.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/ALU/Division.v|
+!i113 0
+R9
+R0
+n@division
+vIteration
+Z10 !s110 1624156910
+!i10b 1
+!s100 Q0:IHfRQI?zG^jc8zQ??c2
+R2
+I1cNUoBZH4Y10WENGoP;LA3
+R3
+w1624156444
+8C:/Users/Admin/Desktop/ALU/Iteration.v
+FC:/Users/Admin/Desktop/ALU/Iteration.v
+!i122 74
+L0 1 16
+R4
+R5
+r1
+!s85 0
+31
+!s108 1624156910.000000
+!s107 C:/Users/Admin/Desktop/ALU/Iteration.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/ALU/Iteration.v|
+!i113 0
+R9
+R0
+n@iteration
+vMultiplication
+R1
+!i10b 1
+!s100 cA7[CRAam[S^>6MXjEZmS0
+R2
+IeEo2@eN^Y0d7[Bm19><AV1
+R3
+w1624156466
+8C:/Users/Admin/Desktop/ALU/Multiplication.v
+FC:/Users/Admin/Desktop/ALU/Multiplication.v
+!i122 72
+L0 1 53
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Admin/Desktop/ALU/Multiplication.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/ALU/Multiplication.v|
+!i113 0
+R9
+R0
+n@multiplication
+vpriority_encoder
+R10
+!i10b 1
+!s100 @@MfcEe:X3n;7Rz^ceBPI0
+R2
+Ib?c=BL`L>^@XH=L4bDX?U1
+R3
+w1624155775
+8C:/Users/Admin/Desktop/ALU/Priority Encoder.v
+FC:/Users/Admin/Desktop/ALU/Priority Encoder.v
+!i122 73
+L0 1 145
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Admin/Desktop/ALU/Priority Encoder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Admin/Desktop/ALU/Priority Encoder.v|
+!i113 0
+R9
+R0
